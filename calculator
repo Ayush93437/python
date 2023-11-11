@@ -1,0 +1,8 @@
+print("Enter the no.")
+a=input()
+print("Enter + for add\nEnter - for subtraction\nEnter * for multiply\nEnter / for division")
+b=input()
+print("Enter the another no.")
+c=input()
+d=a+b+c
+print(eval(d))
